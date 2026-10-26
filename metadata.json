@@ -1,0 +1,6 @@
+{
+  "name": "VAYORA",
+  "description": "VAYORA Customer App - Premium food, grocery, roasteries & nuts delivery in Abu Dhabi, UAE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
